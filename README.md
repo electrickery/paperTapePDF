@@ -1,4 +1,4 @@
-#Paper tape to PDF
+# Paper tape to PDF
 
 
 Anticipating the boards for my paper tape reader PCBs (https://hackaday.com/2022/04/16/paper-tape-reader-self-calibrates-speaks-usb/), I created a python script printing paper pape on paper. 
